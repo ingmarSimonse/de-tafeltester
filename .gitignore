@@ -1,0 +1,10 @@
+bin/
+images/
+obj/
+Properties/
+sounds/
+App.xaml.cs
+App.xaml
+AssemblyInfo.cs
+de tafeltester.csproj.user
+de tafeltester.csproj
